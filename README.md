@@ -1,4 +1,4 @@
-# mu
+# Mu
 
 The Mu language
 
